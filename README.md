@@ -18,3 +18,8 @@ print("Hello, World!")
 
 # Tutorial 
 
+ 1. Edit decompress.py and put the obfuscated string (the shit between (b' and '))
+ 2. Run the script
+ 3. And boom it should print the entire deobfuscated script
+
+### Please star this project took 20min of my time
